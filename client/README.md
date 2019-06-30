@@ -6,16 +6,15 @@ The client is hosted on http://localhost:3000/
 ## What can users do on the chat client
 
 On this chat client user can:
-	- Choose their own unique nickname
-	- See available Chat Rooms
-	- Join a Chat Room
-	- Create their own Chat Room
-	- Leave Chat Rooms
-	- See what users are currently in the same Chat Room as the user
-	- Send messages in real time while inside of a Chat Room
-	- See the messages other users have left
-	- See new messages from other users in real time
-	
+	* Choose their own unique nickname
+	* See available Chat Rooms
+	* Join a Chat Room
+	* Create their own Chat Room
+	* Leave Chat Rooms
+	* See what users are currently in the same Chat Room as the user
+	* Send messages in real time while inside of a Chat Room
+	* See the messages other users have left
+	* See new messages from other users in real time
 
 ## Available Scripts/How to start up and run
 
